@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: /WebsiteTeam29/sitemap.xml
